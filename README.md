@@ -1,1 +1,1 @@
-# NFL_Prediction
+# NFL Prediction Algorithm
